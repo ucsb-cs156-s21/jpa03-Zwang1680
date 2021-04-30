@@ -1,4 +1,4 @@
-# STARTER-lab03
+# jpa03-zwang1680
 
 
 * TODO: Change the title of this README 
@@ -9,17 +9,17 @@
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s21/jpa03-cgaucho
+  https://github.com/ucsb-cs156-s21/jpa03-Zwang1680
 
-Repo: https://ucsb-cs156-s21/STARTER-jpa03
+Repo: https://github.com/ucsb-cs156-s21/jpa03-Zwang1680
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
   a link to your running app on Heroku, e.g.
-  https://jpa03-cgaucho.herokuapp.com
+  https://jpa03-zwang1680.herokuapp.com/
 
 
-On Heroku: https://jpa03-cgaucho.herokuapp.com
+On Heroku: https://jpa03-zwang1680.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
